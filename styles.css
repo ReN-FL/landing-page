@@ -225,8 +225,9 @@ h5 {
 }
 .footer-container > p > a {
   color: red;
+  text-decoration: underline;
 }
 .footer-container > p > a:hover {
-  color: rgb(116, 32, 32);
-
+  color: rgb(235, 235, 235);
+  text-decoration: overline;
 }
